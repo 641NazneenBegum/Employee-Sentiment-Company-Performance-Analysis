@@ -1,0 +1,1001 @@
+Company_Name,Ratings,Reviews_Count,Salary_Count,Interview_Count,Jobs_Count,Company_Sector,Benefits_Count,Other_Locations_Count,Primary_City
+Marpu Foundation,4.9,3100,60,265,0,Non-Profit,8,61,Hyderabad
+Royal Migration Solutions,4.9,1200,5,1,0,Other,1,12,Dubai
+Tekwissen,4.9,1900,566,341,36,IT Services & Consulting,3,5,Visakhapatnam
+Indian Army,4.7,6200,9500,202,0,Defence & Aerospace,728,364,New Delhi
+Incheon Motors,4.7,1000,325,273,5,Automobile,7,15,Thrissur
+Kogta Financial India Limited,4.7,4100,1800,245,112,NBFC,31,259,Jaipur
+iEnergizer,4.6,27100,24100,1100,61,BPO,430,51,Noida
+Wonder Home Finance,4.6,1100,717,186,1,NBFC,9,117,Jaipur
+Nippon Life India Asset Management,4.6,1000,1500,158,95,Financial Services,21,188,Mumbai
+Jet Airways,4.6,1100,1900,24,0,Aviation,180,45,Mumbai
+Indian Navy,4.6,1700,3400,35,0,Defence & Aerospace,244,75,Mumbai
+Baazar Retail Private Limited,4.5,1100,1500,82,0,Retail,16,107,Kolkata
+Muthoot FinCorp,4.5,12300,9000,2200,49,NBFC,275,1098,Bangalore
+Labmentix,4.5,1300,29,470,0,Other,8,32,Bangalore
+GAO Tek,4.5,2100,257,505,0,Electrical Equipment,26,40,New York
+Indian Air Force,4.5,3200,5300,81,0,Defence & Aerospace,354,134,New Delhi
+Bluestock ™,4.5,1300,52,385,0,FinTech,1,43,Pune
+VMware Software,4.4,1100,9100,145,14,Software Product,129,18,Bangalore
+Future Retail,4.4,1700,3800,57,0,Retail,249,197,Mumbai
+Sahrudaya Healthcare (Medicover Hospitals),4.4,2500,3400,144,25,Healthcare,36,45,Hyderabad
+Life Insurance Corporation of India,4.4,2100,4500,96,1,Insurance,242,470,New Delhi
+Equitas Small Finance Bank,4.4,8700,13200,999,22,Banking,397,480,Chennai
+GAIL,4.4,1100,3200,80,0,Oil & Gas,88,101,New Delhi
+Google,4.4,1900,31100,1000,570,Software Product,132,85,Bangalore
+Bajaj Capital Insurance Broking Limited,4.4,1000,1200,226,0,Insurance,41,139,New Delhi
+Veritas Finance,4.4,1500,2100,88,0,NBFC,36,298,Chennai
+Jio,4.4,32400,62100,3900,3,Telecom,2500,1903,Mumbai
+Kalyan Jewellers,4.4,1700,1500,78,13,Jewellery,57,156,Thrissur
+mPokket,4.4,1200,1400,239,7,NBFC,12,20,Kolkata
+Senco Gold,4.4,2000,1500,633,4,Jewellery,35,77,Kolkata
+Altruist Technologies,4.4,3700,8200,689,9,BPO,83,44,Bangalore
+Indostar Capital Finance Limited,4.4,1100,2000,187,0,NBFC,30,322,Mumbai
+Klm Axiva Finvest,4.4,1000,752,436,7,NBFC,6,158,Bangalore
+Cloudnine Hospital,4.4,3500,2900,1100,4,Healthcare,78,46,Bangalore
+Motilal Oswal Home Finance,4.3,1100,1300,125,0,NBFC,22,127,Mumbai
+Toyota Kirloskar Motor,4.3,1600,4400,78,0,Automobile,164,90,Bangalore
+Oil And Natural Gas Corporation,4.3,1200,3000,80,0,Oil & Gas,137,84,Mumbai
+V-Guard Industries,4.3,1900,4500,116,25,Consumer Electronics & Appliances,274,169,Kochi
+Synchrony,4.3,1200,5400,89,7,Financial Services,197,9,Hyderabad
+Hindustan Construction Company,4.3,1300,3200,91,5,Engineering & Construction,158,93,Mumbai
+Indian Oil Corporation,4.3,3500,7700,234,0,Oil & Gas,291,310,New Delhi
+Cummins,4.3,3900,15500,281,9,Industrial Machinery,458,115,Pune
+Apollo Health and Lifestyle Limited,4.3,1100,3300,118,31,Healthcare,68,93,Hyderabad
+BVG India,4.3,1700,3900,166,92,Facility Management Services,99,131,Pune
+Big Bazaar,4.3,1300,2300,46,0,Retail,191,159,New Delhi
+PHN Technology,4.3,1200,354,37,4,EdTech,2,32,Pune
+Hindustan Aeronautics,4.3,1800,4300,85,0,Defence & Aerospace,173,64,Bangalore
+Laurus Labs,4.3,2400,7100,153,7,Pharma,204,33,Visakhapatnam
+Power Grid Corporation of India,4.3,1000,2000,73,0,Power,76,233,Gurgaon
+Honda Cars,4.3,1800,6300,112,0,Automobile,182,117,Bhiwadi
+HPCL-Mittal Energy Limited,4.3,1100,4600,45,0,Petrochemicals,107,30,Bathinda
+Muthoot Microfin,4.2,1500,2400,83,15,NBFC,64,406,Kochi
+Ford Motor,4.2,3300,15200,174,1,Automobile,397,130,Chennai
+Lifestyle,4.2,2300,6800,83,15,Retail,278,129,Bangalore
+Reliance Digital,4.2,3500,8100,167,1,Retail,241,378,Mumbai
+"Maruti Suzuki India Limited, Hansalpur",4.2,2100,6800,227,0,Automobile,113,103,Ahmedabad
+Akums Drugs & Pharmaceuticals Limited,4.2,2300,6200,327,15,Pharma,147,39,Haridwar
+Cushman & Wakefield,4.2,1600,6300,113,177,Real Estate,129,44,Gurgaon
+ECIL,4.2,1200,3100,58,0,Electronics Manufacturing,105,56,Hyderabad
+Syngenta,4.2,1100,3600,77,31,Agriculture,92,170,Pune
+TVS Credit Services Ltd,4.2,3200,7500,156,18,NBFC,194,426,Chennai
+BHEL,4.2,2100,5100,135,0,Electrical Equipment,231,128,Bangalore
+Piramal Finance,4.2,6000,12600,292,6,NBFC,445,423,Mumbai
+Amneal Pharmaceuticals,4.2,1400,6000,83,31,Pharma,136,43,Ahmedabad
+Amazon Transportation Services,4.2,3100,8300,254,1,Logistics,246,228,Hyderabad
+Tieto,4.2,1400,9500,103,80,IT Services & Consulting,114,14,Pune
+Kalpataru Projects International,4.2,5100,13800,325,1,Engineering & Construction,203,321,Mumbai
+Dr Lal PathLabs,4.2,1900,4400,171,80,Healthcare,192,202,New Delhi
+Saipem,4.2,1100,3200,53,7,Engineering & Construction,147,41,Chennai
+Kalpataru Limited,4.2,1200,4300,239,15,Real Estate,78,82,Mumbai
+Thermax Limited,4.2,4200,13100,335,84,Industrial Machinery,371,252,Pune
+Tata Group,4.2,1400,5400,380,1,IT Services & Consulting,143,170,Mumbai
+Hindustan Petroleum,4.2,1700,5900,115,0,Oil & Gas,136,252,Mumbai
+Royal Enfield,4.2,4000,14800,200,17,Automobile,396,372,Chennai
+Hindalco Industries,4.2,4000,12500,299,10,Metals & Mining,327,128,Sambalpur
+Kinara Capital,4.2,1000,2200,93,32,NBFC,149,112,Bangalore
+ReNew,4.2,1600,6100,131,51,Power,96,105,Gurgaon
+Taj Hotels Resorts and Palaces,4.2,2400,4800,155,183,Hospitality,178,109,Mumbai
+Bharat Electronics,4.2,3600,12500,244,0,Electronics Manufacturing,312,87,Bangalore
+Pidilite Industries,4.2,3800,11600,257,3,Chemicals,359,314,Mumbai
+AECOM,4.2,1900,7000,149,130,Engineering & Construction,243,122,Gurgaon
+Zoho,4.2,1200,9300,579,0,Software Product,101,35,Chennai
+XpressBees,4.2,3800,8200,442,11,Logistics,176,476,Pune
+Page Industries,4.2,1400,4900,70,1,Fashion & Textile,103,163,Bangalore
+Schneider Electric,4.2,5000,24400,449,25,Industrial Automation,436,119,Bangalore
+Bharat Petroleum,4.2,2100,6700,174,0,Oil & Gas,187,259,Mumbai
+Titan Company,4.2,3100,9500,200,78,Retail,333,184,Bangalore
+Future Group,4.2,3000,6800,84,0,Retail,423,207,Mumbai
+Cemindia Projects,4.2,1500,2500,91,3,Engineering & Construction,137,87,Mumbai
+Afcons Infrastructure,4.2,3000,8500,266,33,Engineering & Construction,309,122,Mumbai
+IDFC FIRST Bharat,4.2,3000,4900,149,1,Financial Services,71,424,Chennai
+Orange Business,4.2,1600,8900,112,4,IT Services & Consulting,237,52,Gurgaon
+NTPC,4.2,1800,4200,179,0,Power,176,121,New Delhi
+Bisleri,4.2,1500,4200,112,17,Beverage,141,177,Mumbai
+DHL Supply Chain,4.2,1900,6000,117,11,Logistics,137,101,Mumbai
+Hindustan Unilever,4.2,7100,20000,463,39,FMCG,704,533,Mumbai
+Advantmed,4.2,1100,2600,169,42,Healthcare,54,15,Ahmedabad
+Indian Railways,4.2,2200,3400,113,0,Railways,159,246,Kolkata
+Dainik Bhaskar Group,4.2,1500,4400,78,53,Printing & Publishing,148,138,Bhopal
+Tanishq,4.2,1500,3100,108,0,Jewellery,67,234,Kolkata
+Nayara Energy,4.2,1500,6000,96,1,Oil & Gas,168,96,Jamnagar
+Tata Projects,4.2,6700,22100,584,22,Engineering & Construction,540,286,Mumbai
+Biological E,4.2,2000,7000,139,44,Pharma,221,71,Hyderabad
+Sheenlac Paints,4.2,1400,1700,209,2,Chemicals,44,162,Chennai
+Maruti Suzuki,4.2,9400,28300,767,711,Automobile,1100,451,Gurgaon
+NTT DATA Business Solutions,4.1,2000,12300,262,28,IT Services & Consulting,14,32,Bangalore
+Best Sellers,4.1,1200,2900,32,3,Retail,130,92,Mumbai
+Viatris,4.1,3800,14200,164,3,Pharma,500,80,Hyderabad
+Daikin Airconditioning India Pvt. Ltd.,4.1,2200,7600,202,0,Consumer Electronics & Appliances,144,107,Neemrana
+Reliance Trends,4.1,2000,4100,123,0,Retail,220,391,Bangalore
+Nokia Networks,4.1,2200,10400,126,0,Hardware & Networking,10,87,Chennai
+Nuvoco Vistas,4.1,2000,6900,122,13,Building Material,127,196,Kolkata
+Escorts Kubota Limited,4.1,3700,13300,295,5,Automobile,255,154,Faridabad
+Raymond Lifestyle Limited,4.1,2000,6500,113,1,Fashion & Textile,230,149,Mumbai
+AIIMS,4.1,1200,4400,65,0,Education & Training,66,73,New Delhi
+Taurus BPO Services,4.1,1400,933,34,0,BPO,516,23,Pune
+GE,4.1,1300,7400,112,43,Defence & Aerospace,178,76,Bangalore
+Mondelez International,4.1,1300,4600,74,51,Food Processing,128,194,Mumbai
+American Express,4.1,3800,24700,423,104,Financial Services,435,53,Gurgaon
+Blue Star,4.1,2600,9700,195,9,Consumer Electronics & Appliances,237,146,Mumbai
+Renault-Nissan,4.1,2000,7600,125,0,Automobile,268,86,Chennai
+Manipal Hospitals,4.1,2000,6700,137,89,Healthcare,135,67,Bangalore
+GE VERNOVA,4.1,1500,5300,111,256,Power,4,83,Bangalore
+SRF,4.1,2700,8800,209,13,Chemicals,250,68,Bharuch
+Cisco,4.1,2200,18800,406,168,Hardware & Networking,223,46,Bangalore
+DCM Shriram,4.1,1400,4700,106,3,Chemicals,119,110,Bharuch
+ITC Hotels,4.1,2000,5200,102,0,Hospitality,199,94,New Delhi
+Honda,4.1,1600,4000,111,5,Automobile,204,227,Gurgaon
+Aditya Birla Group,4.1,2300,9900,241,0,Metals & Mining,248,266,Mumbai
+Chandigarh University,4.1,1300,2800,105,111,Education & Training,50,48,Chandigarh
+Worley,4.1,1300,7300,137,48,Engineering & Construction,115,55,Mumbai
+DENSO,4.1,1200,3700,83,1,Auto Components,174,39,Gurgaon
+Leadec India,4.1,1200,3500,151,9,Facility Management Services,86,78,Pune
+Shriram Pistons & Rings,4.1,1200,4500,73,2,Auto Components,133,61,Bhiwadi
+Photon Interactive,4.1,2400,7300,130,865,IT Services & Consulting,123,18,Chennai
+Jaquar,4.1,1400,5100,81,4,Building Material,119,115,Gurgaon
+Niva Bupa Health Insurance Company,4.1,3200,8200,372,102,Insurance,119,319,New Delhi
+Vestas,4.1,1200,5200,97,11,Power,134,50,Chennai
+ABB,4.1,3300,17700,285,1,Industrial Machinery,346,107,Bangalore
+RSPL Group,4.1,3300,9500,254,25,FMCG,293,255,Kanpur
+Health Care Global Enterprises,4.1,1400,2800,125,72,Healthcare,26,51,Bangalore
+J. Kumar Infraprojects,4.1,1400,4400,91,0,Engineering & Construction,116,40,Mumbai
+KFC,4.1,1500,3000,84,0,Hospitality,153,172,New Delhi
+Supreme Industries,4.1,1500,5600,94,0,Petrochemicals,113,121,Gwalior
+Coromandel International,4.1,2100,7500,123,13,Agro Chemicals,217,182,Visakhapatnam
+Pantaloons,4.1,1300,2900,69,0,Retail,133,153,Mumbai
+Jindal Stainless,4.1,3000,11400,311,12,Iron & Steel,186,78,Jajpur
+Luminous Power Technologies,4.1,1300,3900,95,40,Consumer Electronics & Appliances,123,135,Gurgaon
+Sony,4.1,1400,4600,82,2,Consumer Electronics & Appliances,191,145,New Delhi
+UPL,4.1,3100,11100,217,48,Agro Chemicals,293,186,Ankleshwar
+V-Mart,4.1,2500,4300,192,19,Retail,210,284,Gurgaon
+Jakson Group,4.1,1200,3800,102,24,Power,98,100,Noida
+The Ramco Cements,4.1,1300,4000,80,1,Building Material,95,122,Chennai
+Troikaa Pharmaceuticals,4.1,1200,3700,113,9,Pharma,79,104,Ahmedabad
+ArcelorMittal Nippon Steel,4.1,3400,11600,270,0,Iron & Steel,111,85,Surat
+Honda Motorcycle & Scooter,4.1,3400,11100,202,0,Automobile,348,298,Gurgaon
+PhonePe,4.1,3500,12700,413,64,FinTech,183,393,Bangalore
+Ashoka Buildcon,4.1,1500,4100,80,0,Engineering & Construction,125,155,Nashik
+TE Connectivity,4.1,1300,7200,99,73,Electronics Manufacturing,149,22,Bangalore
+Rupeek,4.1,1200,3300,131,23,FinTech,55,57,Bangalore
+Marriott International,4.1,1500,4700,100,1200,Hospitality,184,90,Bangalore
+Aarti Industries,4.1,3500,14300,328,14,Agro Chemicals,351,58,Bharuch
+Abbott,4.1,3600,11800,180,235,Pharma,361,214,Mumbai
+DS Group,4.1,2900,7700,214,51,FMCG,207,279,Noida
+PepsiCo,4.1,3100,13300,234,388,Food Processing,244,275,Hyderabad
+Xoriant,4.1,2300,11600,233,51,IT Services & Consulting,413,23,Pune
+Paras Hospital,4.1,2400,3100,99,33,Healthcare,126,62,Patna
+Lodha,4.1,2200,8600,168,205,Real Estate,173,30,Mumbai
+Agilus Diagnostics,4.1,1400,3300,83,9,Healthcare,131,136,Mumbai
+Bank of America,4.1,3800,28300,285,0,Banking,413,35,Gurgaon
+Caterpillar Inc,4.1,1600,10500,206,101,Industrial Machinery,134,43,Chennai
+JTEKT,4.1,1200,4300,89,0,Auto Components,88,29,Gurgaon
+CBRE,4.1,5000,18700,342,24,Real Estate,443,91,Hyderabad
+Electronica Finance,4.1,1100,2800,138,19,NBFC,30,170,Pune
+Podar International School,4.1,1100,3200,80,1,Education & Training,112,124,Mumbai
+Hero MotoCorp,4.1,5300,15700,406,2,Automobile,584,365,Gurgaon
+Gabriel India Limited,4.1,1900,5800,132,0,Auto Components,249,51,Pune
+Apollo Hospitals,4.1,5500,16500,476,148,Healthcare,507,229,Chennai
+Birla Corporation,4.1,1100,3600,70,0,Building Material,83,143,Kolkata
+Shapoorji Pallonji Group,4.1,5600,15300,418,79,Engineering & Construction,632,189,Mumbai
+DHL Express,4.1,1600,6100,77,0,Logistics,170,92,Mumbai
+KONE,4.1,1600,5600,134,29,Industrial Machinery,191,72,Chennai
+Yamaha Motor,4.1,1600,5100,86,18,Automobile,177,154,Chennai
+Jacobs Engineering Group,4.1,1100,5000,88,13,Engineering & Construction,92,42,Mumbai
+JLL,4.1,6200,24200,480,221,Real Estate,539,84,Gurgaon
+Hitachi Astemo,4.1,1600,6200,135,0,Auto Components,119,51,Neemrana
+G R Infraprojects,4.1,1900,5400,161,44,Engineering & Construction,158,155,Gurgaon
+Lupin,4.1,7200,22500,436,36,Pharma,764,201,Pune
+Navitasys India,4.1,1100,2600,142,0,Electronics Manufacturing,54,25,Bawal
+Sun Pharmaceutical Industries,4.1,7400,23500,652,316,Pharma,594,265,Vadodara
+Zydus Wellness,4.1,1100,2800,104,14,FMCG,71,128,Ahmedabad
+Aye Finance,4.1,1900,3400,93,27,NBFC,115,362,Gurgaon
+Cipla,4.1,8400,26000,581,61,Pharma,850,292,Mumbai
+UltraTech Cement,4.1,9200,23600,777,32,Building Material,619,534,Mumbai
+Tata Motors,4.1,14000,42500,1200,181,Automobile,1600,506,Pune
+AkzoNobel,4.1,1800,4300,141,24,Chemicals,132,161,Pune
+USHA International,4.1,1700,4800,112,12,Consumer Electronics & Appliances,162,147,Gurgaon
+TKIL,4.1,1000,4400,73,5,Industrial Machinery,91,60,Pune
+MetLife,4.1,1800,9200,101,36,Insurance,235,44,Noida
+vivo,4.1,4900,13000,235,11,Consumer Electronics & Appliances,643,414,Noida
+Oberoi Group of Hotels,4.1,1400,3800,96,0,Hospitality,226,38,New Delhi
+Intas Pharmaceuticals,4.1,4400,17200,259,57,Pharma,362,148,Ahmedabad
+Bosch,4.1,4600,20800,376,0,Auto Components,599,131,Bangalore
+Novartis,4.1,2000,10000,166,147,Pharma,226,75,Hyderabad
+Fidelity Investments,4.1,1200,8000,122,2,Financial Services,160,19,Bangalore
+Kirloskar Oil Engines,4.1,1200,4000,61,24,Industrial Machinery,97,105,Pune
+HSBC Electronic Data Processing,4.1,2000,8700,87,0,IT Services & Consulting,20,19,Bangalore
+SAP,4.1,1900,17400,314,206,Software Product,284,53,Bangalore
+Aditya Birla Fashion and Retail,4.1,4500,13100,264,75,Fashion & Textile,391,291,Bangalore
+Intel,4.1,1200,8800,237,35,Semiconductors,91,36,Bangalore
+Hewlett Packard Enterprise,4.1,4500,27100,266,231,IT Services & Consulting,546,104,Bangalore
+Chegg,4.1,1600,4000,167,6,EdTech,87,77,New Delhi
+Hyundai Motor India Limited,4.1,4400,13900,321,4,Automobile,518,287,Chennai
+Johnson & Johnson,4.0,1600,5800,115,11,Healthcare,186,170,Mumbai
+USV,4.0,1700,5700,86,29,Pharma,171,107,Mumbai
+Varun Beverages,4.0,4700,11900,344,30,Beverage,321,379,New Delhi
+Britannia,4.0,2700,8100,223,3,FMCG,245,301,Pune
+Medanta the Medicity,4.0,1600,5000,126,73,Healthcare,147,47,Gurgaon
+Reliance Industries,4.0,19700,72500,1600,48,Oil & Gas,1800,813,Jamnagar
+UnitedHealth,4.0,2800,14400,84,0,Healthcare,432,17,Hyderabad
+Dr. Reddy's,4.0,8100,26100,498,12,Pharma,740,215,Hyderabad
+Amul India,4.0,1500,4100,154,2,Food Processing,3,205,Ahmedabad
+Optum Global Solutions,4.0,7700,48700,751,114,IT Services & Consulting,686,68,Hyderabad
+Apollo Tyres,4.0,2800,9900,149,0,Auto Components,320,181,Chennai
+ICICI Prudential Life Insurance,4.0,7600,23100,473,577,Insurance,625,505,Mumbai
+HCL Infosystems,4.0,1500,7200,146,3,IT Services & Consulting,229,104,Noida
+Nokia,4.0,2800,16300,313,84,Telecom,537,166,Bangalore
+JSW Cement,4.0,1300,4300,132,0,Building Material,103,140,Mumbai
+CreditAccess Grameen,4.0,1300,2500,52,15,NBFC,67,338,Bangalore
+Balkrishna Industries,4.0,1100,4000,63,0,Auto Components,48,31,Bhuj
+GlaxoSmithKline Pharmaceuticals,4.0,2200,5600,125,31,Pharma,112,217,Bangalore
+Sterling & Wilson,4.0,1800,6600,83,22,Engineering & Construction,200,129,Mumbai
+Shoppers Stop,4.0,2900,6900,141,38,Retail,320,82,Mumbai
+Aditya Birla Sun Life Insurance,4.0,3700,10000,177,0,Insurance,214,488,Mumbai
+Matrimony.com,4.0,1600,4400,101,33,Internet,66,63,Chennai
+Suzlon Group,4.0,2900,7800,170,21,Power,322,142,Pune
+Ujjivan Small Finance Bank,4.0,7400,13000,314,207,Banking,579,533,Bangalore
+Reckitt Benckiser,4.0,1700,6300,105,45,FMCG,174,136,Gurgaon
+Grasim Industries,4.0,3700,12600,272,4,Building Material,267,242,Bharuch
+Relaxo Footwear,4.0,1500,4500,107,46,Fashion & Textile,142,158,New Delhi
+Newgen Software Technologies,4.0,2100,11500,200,41,IT Services & Consulting,147,32,Noida
+Huawei Technologies,4.0,2100,8100,118,34,Telecom,288,105,Bangalore
+John Deere,4.0,4000,15300,267,1,Industrial Machinery,417,156,Pune
+L&T Construction,4.0,7200,19200,943,0,Engineering & Construction,929,433,Chennai
+KEC International,4.0,4800,13200,417,9,Engineering & Construction,441,314,Mumbai
+Unicharm,4.0,1100,2800,64,0,FMCG,104,188,Gurgaon
+Suguna Foods,4.0,1500,4100,94,17,Food Processing,135,201,Coimbatore
+Jabil Circuit India,4.0,1100,4200,65,70,Electronics Manufacturing,87,31,Pune
+FedEx Express,4.0,1400,4900,108,34,Logistics,189,92,Mumbai
+Metro Cash & Carry,4.0,1700,4800,74,0,Retail,167,88,Bangalore
+Kia India,4.0,2300,8100,174,85,Automobile,166,187,Anantapur
+Mother Dairy Fruit & Vegetable,4.0,1700,4900,100,0,Food Processing,151,127,New Delhi
+Jindal Saw,4.0,1800,6500,142,13,Iron & Steel,182,76,Mundra
+Hinduja Leyland Finance,4.0,1500,2800,56,6,NBFC,69,298,Chennai
+Fortis Healthcare,4.0,2500,7500,187,683,Healthcare,139,69,New Delhi
+Heritage Foods,4.0,1400,3700,101,19,Food Processing,142,124,Hyderabad
+Radisson Hotels,4.0,2200,5200,98,22,Hospitality,312,126,New Delhi
+Himalaya Wellness,4.0,2500,5900,146,19,Pharma,255,236,Bangalore
+Amara Raja Energy & Mobility,4.0,1400,4000,106,0,Auto Components,113,91,Tirupati
+Mahindra & Mahindra,4.0,11800,39800,837,1,Automobile,1200,561,Pune
+MAHLE ANAND Filter Systems,4.0,1100,3400,37,0,Auto Components,109,38,Pune
+Max Fashion,4.0,1500,3400,75,5,Retail,174,153,Bangalore
+Tractors and Farm Equipment,4.0,2500,8300,132,12,Industrial Machinery,275,192,Chennai
+Sansera Engineering,4.0,1400,5400,95,17,Auto Components,110,28,Bangalore
+Whirlpool,4.0,2200,7900,118,25,Consumer Electronics & Appliances,201,175,Pune
+Voltas,4.0,2600,8600,174,17,Consumer Electronics & Appliances,257,206,Mumbai
+G4S,4.0,2600,5100,128,637,Law Enforcement & Security,235,162,Gurgaon
+GMR Group,4.0,1500,4500,103,37,Engineering & Construction,185,72,New Delhi
+Parle Agro,4.0,2500,6500,143,3,Beverage,212,257,Mumbai
+Siemens Gamesa Renewable Power Private Limited,4.0,1100,4900,60,95,Power,102,69,Bangalore
+Cavinkare,4.0,1700,4800,69,10,FMCG,142,173,Chennai
+Tata Steel,4.0,9700,34000,1000,0,Iron & Steel,659,229,Jamshedpur
+Gmmco,4.0,1000,2900,52,6,Industrial Machinery,110,89,Chennai
+Asian Paints,4.0,9300,25400,837,63,Chemicals,884,549,Mumbai
+Eaton,4.0,1300,7800,146,4,Electronics Manufacturing,125,22,Pune
+Suryoday Small Finance Bank,4.0,1600,4500,96,0,Banking,86,230,Mumbai
+Aadhar Housing Finance,4.0,1800,4800,117,1,NBFC,99,321,Mumbai
+Adani Wilmar,4.0,2200,6800,131,92,FMCG,171,198,Ahmedabad
+Shriram Finance,4.0,8900,14900,439,5,NBFC,21,1111,Chennai
+NetAmbit,4.0,1200,3000,155,6,BPO,34,144,Noida
+Torrent Pharmaceuticals,4.0,3000,10200,166,24,Pharma,310,129,Ahmedabad
+Infra.Market,4.0,1800,3700,275,8,Building Material,35,128,Mumbai
+Hyatt Regency,4.0,1400,3000,58,10,Hospitality,194,51,New Delhi
+Axis Max Life Insurance,4.0,6900,19600,399,129,Insurance,495,495,New Delhi
+Tata Capital,4.0,5600,15700,266,3400,NBFC,258,439,Mumbai
+Biocon Limited,4.0,2400,11700,183,16,Biotechnology,2,65,Bangalore
+Procter & Gamble,4.0,1600,5700,133,0,FMCG,166,249,Mumbai
+SKF,4.0,1200,4400,72,70,Auto Components,148,69,Pune
+Hindustan Coca Cola Beverages,4.0,3400,7600,176,34,Beverage,377,260,Bangalore
+Ahluwalia Contracts India,4.0,1200,3400,73,20,Engineering & Construction,68,58,New Delhi
+Compass Group Support Services,4.0,1600,5300,84,44,Facility Management Services,141,76,Bangalore
+JSW Bhushan Power & Steel,4.0,1600,4900,75,0,Iron & Steel,176,65,Jharsuguda
+ICICI Bank,4.0,45100,150000,2900,22,Banking,3700,1437,Mumbai
+Dana Anand,4.0,1000,2900,52,0,Auto Components,125,47,Pune
+Gland Pharma,4.0,1400,5900,87,0,Pharma,120,35,Hyderabad
+BA Continuum,4.0,1600,10300,111,0,IT Services & Consulting,289,18,Hyderabad
+Ashok Leyland,4.0,5500,18700,315,0,Automobile,642,260,Chennai
+Reliance Communications,4.0,3800,9600,106,0,Telecom,375,468,Mumbai
+Wind World,4.0,1200,3300,87,6,Power,120,82,Jaisalmer
+CGI Group,4.0,5300,45500,555,674,IT Services & Consulting,354,43,Bangalore
+Reliance Projects & Property Management Services,4.0,3500,7300,210,0,Other,20,618,Kolkata
+Fresenius Kabi,4.0,1200,4000,52,30,Pharma,116,64,Pune
+Tata Play,4.0,1600,4600,89,1,Broadcasting,181,222,Mumbai
+MagicBricks,4.0,1600,4400,348,38,Internet,72,34,Noida
+Home Credit Finance,4.0,4600,9400,146,83,NBFC,629,136,Gurgaon
+Coca-Cola Company,4.0,1100,3200,100,1,Beverage,102,204,Bangalore
+Nagarjuna Construction Company,4.0,5000,12100,435,11,Engineering & Construction,408,296,Hyderabad
+Rungta Mines,4.0,1600,5300,173,0,Metals & Mining,58,56,Chaibasa
+JK Cement,4.0,3600,9900,331,1,Building Material,257,329,New Delhi
+Sodexo,4.0,3600,9700,200,1200,Facility Management Services,364,157,Mumbai
+Godrej Consumer Products,4.0,1200,4700,60,0,FMCG,118,149,Mumbai
+ISS Facility Services,4.0,1400,4100,68,12,Facility Management Services,132,66,Mumbai
+Schaeffler India,4.0,1100,5400,64,9,Auto Components,106,27,Vadodara
+S&P Global,4.0,3100,20300,325,200,Analytics & KPO,212,47,Hyderabad
+Mahindra Rural Housing Finance,4.0,2400,4800,103,10,NBFC,180,463,Mumbai
+Vardhman Fabrics,4.0,1600,5200,78,10,Fashion & Textile,147,62,Baddi
+Tata AIG,4.0,3200,11500,191,78,Insurance,245,260,Mumbai
+HDFC Ergo General Insurance,4.0,4000,12100,197,10,Insurance,273,326,Mumbai
+Security and Intelligence Services (India),4.0,1700,4500,78,38,Law Enforcement & Security,134,196,New Delhi
+INDO-MIM,4.0,1100,4100,74,10,Metals & Mining,114,34,Bangalore
+ICON Plc,4.0,1100,4300,135,86,Clinical Research,54,27,Chennai
+IIFL Finance,4.0,6200,14100,323,70,NBFC,399,802,Mumbai
+Sanofi,4.0,1500,5600,97,4,Pharma,163,91,Hyderabad
+CaratLane - A Tata Product,4.0,1100,2900,67,86,Jewellery,78,86,Chennai
+American Broadcasting Company,4.0,1600,33400,587,9,Engineering & Construction,9,106,Bangalore
+Sigma Electric Manufacturing Corporation,4.0,1300,2900,77,8,Industrial Machinery,206,22,Pune
+Nippon Paint India,4.0,1300,3800,77,2,Chemicals,84,163,Chennai
+NEC,4.0,1700,5500,79,13,IT Services & Consulting,78,54,Noida
+Sundaram Finance,4.0,1100,2900,44,23,NBFC,87,246,Chennai
+Arvind Group,4.0,1600,5300,78,0,Fashion & Textile,296,91,Ahmedabad
+Piramal Pharma,4.0,1500,6300,119,41,Pharma,101,83,Mumbai
+Indira IVF Hospital,4.0,1100,2900,75,63,Healthcare,74,106,Mumbai
+Panasonic,4.0,1300,4800,49,18,Consumer Electronics & Appliances,148,125,Gurgaon
+Zetwerk,4.0,1100,3900,111,14,Industrial Machinery,54,118,Bangalore
+H.G. Infra Engineering,4.0,1200,3100,105,10,Engineering & Construction,87,99,Jaipur
+Aurobindo Pharma,4.0,5700,20700,286,13,Pharma,468,115,Hyderabad
+Aerial Telecom Solutions,4.0,1200,2100,117,16,Telecom,35,109,Mohali
+AGS Health,4.0,3300,14200,210,33,Analytics & KPO,272,63,Chennai
+NatWest Group,4.0,3300,20800,234,93,Banking,362,29,Gurgaon
+Valeo,4.0,1400,7900,104,97,Auto Components,127,23,Chennai
+Maersk,4.0,3700,18900,247,34,Logistics,421,49,Chennai
+Wistron,4.0,1100,5200,93,0,Electronics Manufacturing,131,22,Bangalore
+Ecom Express,4.0,4800,9600,263,0,Logistics,323,775,Gurgaon
+Innovsource Services,3.9,1800,4600,76,1,Recruitment,125,247,Mumbai
+Delphi TVS,3.9,2000,5600,100,6,Auto Components,192,60,Chennai
+Syngene International,3.9,2300,12500,191,0,Clinical Research,217,21,Bangalore
+SAI Life Sciences,3.9,1400,5900,104,25,Clinical Research,130,26,Hyderabad
+Sopra Steria,3.9,2300,13900,183,201,IT Services & Consulting,240,20,Noida
+Aavas Financiers,3.9,2300,5600,118,33,NBFC,138,292,Jaipur
+BT Business,3.9,1700,8900,90,0,Telecom,260,12,Gurgaon
+Polycab Wires,3.9,1800,7000,129,20,Electrical Equipment,88,167,Vadodara
+Saint-Gobain,3.9,2000,11400,203,111,Building Material,243,103,Mumbai
+Aragen Life Sciences,3.9,1800,6400,126,112,Clinical Research,298,31,Hyderabad
+Dixon Technologies,3.9,1500,5700,140,3,Electronics Manufacturing,116,46,Noida
+Greenko Group,3.9,1500,3600,67,3,Power,95,226,Hyderabad
+Lucas-TVS,3.9,1900,6000,90,8,Auto Components,212,76,Chennai
+Rane (Madras),3.9,1600,4900,94,21,Auto Components,162,56,Chennai
+Haier Appliances India,3.9,1900,6900,161,18,Consumer Electronics & Appliances,165,156,Pune
+Cargill,3.9,2100,8400,111,434,Food Processing,148,119,Bangalore
+Pfizer,3.9,2100,5700,85,49,Pharma,276,132,Visakhapatnam
+Parle Products,3.9,1900,3800,113,7,FMCG,201,243,Mumbai
+Lumax Industries,3.9,1500,5600,96,13,Auto Components,125,41,Gurgaon
+ZF Commercial Vehicle Control Systems,3.9,1500,3700,77,0,Auto Components,6,48,Chennai
+Teva Pharmaceuticals,3.9,1500,5600,115,42,Pharma,183,52,Bangalore
+Godrej Industries Group,3.9,1500,3000,147,3,Real Estate,155,148,Mumbai
+Satin Creditcare Network,3.9,1500,3100,64,1,NBFC,129,322,Gurgaon
+Narayana Health,3.9,1900,5900,91,97,Healthcare,143,64,Bangalore
+Schindler,3.9,1900,6200,120,68,Industrial Machinery,194,88,Pune
+Welspun Living Limited,3.9,1600,5000,88,0,Fashion & Textile,150,85,Anjar
+Brakes India,3.9,2100,7100,103,1,Auto Components,212,100,Chennai
+Safexpress,3.9,1900,5700,126,13,Logistics,148,157,New Delhi
+Hero Motors Company,3.9,1600,6100,96,0,Automobile,120,230,Ghaziabad
+Ambuja Cements,3.9,2100,5900,159,0,Building Material,211,255,Mumbai
+Shahi Exports,3.9,2100,6800,125,33,Fashion & Textile,228,70,Bangalore
+Coronis Ajuba Solutions,3.9,1600,5600,93,18,BPO,140,31,Chennai
+Tata Power,3.9,1900,7200,212,9,Power,123,150,Mumbai
+Provana,3.9,1700,4000,173,38,BPO,249,11,Noida
+Gujarat Fluorochemicals,3.9,1500,6500,106,7,Chemicals,129,32,Bharuch
+Lava International,3.9,2200,4400,86,1,Consumer Electronics & Appliances,302,222,Noida
+Panasonic Life Solutions India,3.9,2200,6500,96,11,Consumer Electronics & Appliances,105,169,Haridwar
+Endurance Technologies Limited,3.9,2200,7800,134,20,Auto Components,230,48,Aurangabad
+Myntra,3.9,2200,10400,306,50,Internet,305,103,Bangalore
+Adani Green Energy,3.9,1700,5700,152,0,Power,79,114,Ahmedabad
+Kotak Mahindra Prime,3.9,1500,5100,68,0,NBFC,62,171,Mumbai
+Annapurna Finance,3.9,1700,3700,84,3,NBFC,126,391,Bhubaneswar
+CMA CGM,3.9,1600,8100,100,9,Ports & Shipping,211,37,Chennai
+Wheels,3.9,1000,5000,71,0,Auto Components,72,46,Chennai
+Info Edge,3.9,2300,11200,376,314,Internet,298,69,Noida
+Salesforce,3.9,1100,12700,246,160,Software Product,104,40,Hyderabad
+DLF,3.9,1200,4600,95,7,Real Estate,71,35,Gurgaon
+Colliers India,3.9,1200,4800,89,100,Real Estate,76,46,Bangalore
+Nagarro,3.9,4700,32200,829,923,IT Services & Consulting,1100,49,Gurgaon
+JBM Group,3.9,4700,14000,345,43,Auto Components,342,117,Gurgaon
+TVS Motor,3.9,5000,15800,394,70,Automobile,536,349,Hosur
+Ocwen Financial Solutions,3.9,1100,4400,51,10,Financial Services,168,9,Bangalore
+Bajaj Motors,3.9,1100,3300,68,0,Auto Components,109,89,Gurgaon
+Alkem Laboratories,3.9,3500,9800,194,12,Pharma,328,196,Mumbai
+Johnson Lifts,3.9,1100,3700,48,8,Industrial Machinery,92,75,Chennai
+Mahindra Finance,3.9,5500,12100,215,435,NBFC,507,730,Mumbai
+Aparna Constructions and Estates,3.9,1100,3900,111,44,Real Estate,94,21,Hyderabad
+Strides Pharma,3.9,1100,4200,75,0,Pharma,142,34,Bangalore
+Manappuram Finance,3.9,5600,9000,220,3,NBFC,260,650,Bangalore
+BigBasket,3.9,5700,19200,477,86,Internet,381,140,Bangalore
+L&T Finance,3.9,4500,11800,216,0,NBFC,261,634,Mumbai
+OPPO,3.9,4500,11800,248,6,Consumer Electronics & Appliances,602,410,Greater Noida
+Havells,3.9,4500,15000,286,33,Electrical Equipment,315,261,Noida
+Tata AIA Life Insurance,3.9,4400,14100,249,638,Insurance,297,441,Mumbai
+Hetero,3.9,4300,15100,298,142,Pharma,332,68,Hyderabad
+Rockman Industries,3.9,1200,3800,92,12,Auto Components,98,40,Haridwar
+Team Lease,3.9,4300,16000,248,2,Recruitment,215,399,Bangalore
+VE Commercial Vehicles,3.9,4200,14200,283,5,Automobile,340,179,Indore
+KIMS Hospital,3.9,1200,3500,61,15,Healthcare,78,59,Hyderabad
+LG Electronics,3.9,4100,11000,259,0,Consumer Electronics & Appliances,399,298,Pune
+Jindal Steel Limited,3.9,4000,15600,414,27,Iron & Steel,328,174,Angul
+Tata Communications,3.9,4000,23600,300,215,Telecom,426,102,Pune
+Alembic Pharmaceuticals,3.9,3800,15300,253,64,Pharma,378,187,Vadodara
+Carelon Global Solutions,3.9,3800,26700,410,26,IT Services & Consulting,7,21,Bangalore
+PVR INOX,3.9,3800,9400,213,20,Media & Entertainment,242,149,New Delhi
+Automatic Data Processing (ADP),3.9,3700,22000,290,44,Software Product,457,40,Hyderabad
+Kyndryl,3.9,3700,26100,224,29,IT Services & Consulting,163,37,Bangalore
+Siemens,3.9,5700,33700,503,802,Industrial Automation,633,152,Bangalore
+Barbeque Nation,3.9,1100,2600,48,11,Hospitality,118,83,Bangalore
+Udaan,3.9,5700,15700,372,5,Internet,755,368,Bangalore
+Bajaj Finserv,3.9,12600,30300,713,7,NBFC,706,1167,Pune
+Aarvi Encon,3.9,1000,2900,79,0,Recruitment,66,128,Mumbai
+Bharat Sanchar Nigam,3.9,1000,2600,47,0,Telecom,101,239,Bangalore
+Svatantra Microfin,3.9,1000,2100,42,2,NBFC,74,321,Mumbai
+Zf Rane Automotive,3.9,1000,3900,63,0,Auto Components,133,50,Chennai
+Amazon,3.9,30700,150000,5800,1600,Internet,4100,519,Bangalore
+Reliance Retail,3.9,26900,75100,1900,157,Retail,1800,1155,Mumbai
+IBM,3.9,25300,210000,2600,2100,IT Services & Consulting,2600,160,Bangalore
+HDB Financial Services,3.9,25100,50200,1100,225,NBFC,1500,1092,Mumbai
+Larsen & Toubro Limited,3.9,23200,74300,1800,190,Engineering & Construction,2500,759,Chennai
+Vodafone Idea,3.9,17500,50200,671,43,Telecom,2000,703,Pune
+Metropolis Healthcare,3.9,1000,3500,64,0,Healthcare,72,101,Mumbai
+IDFC FIRST Bank,3.9,14000,48800,912,26,Banking,692,714,Mumbai
+Godrej Agrovet,3.9,1000,3300,62,5,Agriculture,77,144,Mumbai
+AU Small Finance Bank,3.9,13800,29100,672,51,Banking,577,785,Jaipur
+Flipkart,3.9,12600,54300,1600,173,Internet,1400,557,Bangalore
+SMFG India Credit,3.9,5800,10700,205,76,NBFC,348,595,Mumbai
+HDFC Life,3.9,11700,32700,775,131,Insurance,614,700,Mumbai
+Nexa,3.9,1100,2400,41,0,Automobile,103,212,New Delhi
+CALIBEHR,3.9,1100,2700,65,10,IT Services & Consulting,62,182,Mumbai
+Bajaj Finance,3.9,8900,22600,425,6700,NBFC,502,971,Pune
+Ericsson,3.9,8300,42400,469,86,Telecom,998,163,Noida
+Samsung,3.9,8300,26400,618,18,Consumer Electronics & Appliances,520,581,Noida
+JSW Steel,3.9,7600,30300,792,109,Iron & Steel,601,193,Ballari
+Ekart Logistics,3.9,7200,15800,405,0,Logistics,422,741,Bangalore
+Zydus Lifesciences,3.9,7200,20000,420,28,Pharma,605,176,Ahmedabad
+ITC,3.9,7000,24400,684,74,FMCG,638,376,Bangalore
+Megha Engineering & Infrastructures,3.9,6800,18800,560,40,Engineering & Construction,539,406,Hyderabad
+Bajaj Life Insurance,3.9,6400,17000,440,57,Insurance,474,609,Pune
+DMart,3.9,5900,18600,541,206,Retail,470,247,Mumbai
+HSBC Group,3.9,5800,42800,545,132,Financial Services,1100,63,Bangalore
+Godrej & Boyce Manufacturing,3.9,3600,15100,225,86,Consumer Electronics & Appliances,412,165,Mumbai
+Shubham Housing Development Finance,3.9,1300,3000,51,1,NBFC,75,155,New Delhi
+ICICI Prudential Mutual Fund,3.9,1200,5500,86,0,Financial Services,84,167,Mumbai
+HDFC Sales,3.9,2900,8300,189,7,Financial Services,190,345,Mumbai
+Atul,3.9,1300,5200,97,3,Chemicals,113,64,Valsad
+Hindware Limited,3.9,1300,4600,81,4,Building Material,129,133,Hyderabad
+Burger King,3.9,1300,3500,93,5,Hospitality,135,108,New Delhi
+Yazaki,3.9,2800,8900,179,4,Auto Components,253,93,Pune
+TÜV SÜD,3.9,1300,3800,92,94,"Testing, Inspection and Certification (TIC)",97,125,Bangalore
+Blue Dart Express Ltd,3.9,2700,6700,127,3,Logistics,233,280,Mumbai
+Fusion Finance,3.9,1400,3000,58,3,NBFC,74,330,New Delhi
+JioMart,3.9,1300,4100,114,0,Retail,76,297,Mumbai
+Fino Payments Bank,3.9,1300,4000,63,7,Banking,96,268,Mumbai
+Shell,3.9,2700,13800,231,5,Oil & Gas,257,91,Bangalore
+Flex,3.9,2700,15900,212,53,Electronics Manufacturing,439,46,Chennai
+Tata Electronics,3.9,2600,10800,254,18,Semiconductors,61,50,Hosur
+Faurecia,3.9,1400,6100,70,7,Auto Components,181,28,Pune
+Aumovio,3.9,1400,9100,81,8,Auto Components,129,21,Bangalore
+Ajanta Pharma,3.9,2600,8900,163,40,Pharma,214,118,Mumbai
+Domino's Pizza,3.9,2600,4100,122,0,Hospitality,392,246,New Delhi
+ACT Fibernet,3.9,2500,7700,159,121,Telecom,255,57,Hyderabad
+TCS iON,3.9,1400,3900,398,0,IT Services & Consulting,176,114,Chennai
+Bajaj Electricals,3.9,2500,7500,150,18,Consumer Electronics & Appliances,289,233,Mumbai
+Alldigi Tech,3.9,2500,7600,231,19,BPO,112,36,Chennai
+Foxconn,3.9,2500,10300,225,17,Electronics Manufacturing,170,60,Chennai
+JCB,3.9,2400,9500,165,0,Industrial Machinery,233,113,Pune
+Patanjali Ayurved,3.9,2400,5900,135,0,FMCG,248,301,Haridwar
+V5 Global Services,3.9,1400,3600,88,1,Recruitment,72,214,New Delhi
+Acmegrade,3.9,1400,266,67,0,EdTech,1,21,Bangalore
+ICICI Securities,3.9,2400,9500,195,1,Financial Services,184,148,Mumbai
+Planet Spark,3.9,2400,3400,586,67,EdTech,191,61,Gurgaon
+Daimler India Commercial Vehicles,3.9,1400,6600,72,7,Automobile,174,48,Chennai
+Hero FinCorp,3.9,2400,5600,118,47,NBFC,129,389,New Delhi
+Sagility,3.9,2900,11500,241,86,BPO,36,27,Bangalore
+Dalmia Bharat Cement,3.9,2700,4200,197,3,Building Material,243,252,Guwahati
+Automotive Manufacturers,3.9,1200,5100,100,38,Automobile,76,147,Hyderabad
+Astral Pipe,3.9,1300,3900,90,61,Building Material,31,142,Ahmedabad
+INDIUM,3.9,1200,6800,230,103,IT Services & Consulting,48,13,Chennai
+Max Healthcare,3.9,3100,10300,186,101,Healthcare,276,78,New Delhi
+ACC,3.9,2900,9300,233,2,Building Material,270,274,Mumbai
+Ceat Tyres,3.9,3300,12900,209,5,Auto Components,346,140,Nagpur
+Dilip Buildcon,3.9,3100,8100,185,19,Engineering & Construction,298,225,Bhopal
+"NTT DATA, Inc.",3.9,3400,21300,152,75,IT Services & Consulting,624,36,Bangalore
+UNO Minda,3.9,3400,11200,252,13,Auto Components,279,109,Pune
+Dhani Loans and Services,3.9,1700,4300,70,19,NBFC,41,187,Gurgaon
+RBL FinServe,3.9,1300,3000,66,0,Financial Services,79,364,Mumbai
+Viraj Profiles,3.9,1200,4400,96,4,Iron & Steel,146,27,Mumbai
+OM Logistics,3.9,1300,3600,90,6,Logistics,102,121,New Delhi
+Vedanta Aluminium,3.8,1100,4500,64,0,Metals & Mining,109,45,Jharsuguda
+CG Power and Industrial Solutions,3.8,1600,6400,105,5,Electrical Equipment,213,90,Bhopal
+Airtel Payments Bank,3.8,1400,4900,107,11,Banking,108,325,Gurgaon
+PNB Housing Finance,3.8,1400,4500,53,4,NBFC,86,168,New Delhi
+Tube Investments of India,3.8,1100,3600,69,12,Engineering & Construction,53,63,Chennai
+Dassault Systemes,3.8,1200,6900,184,0,Software Product,134,12,Pune
+Granules India Limited,3.8,1700,6200,84,3,Pharma,159,22,Hyderabad
+SBFC Finance,3.8,1400,2700,83,54,NBFC,47,214,Mumbai
+Wockhardt,3.8,1600,4100,64,1,Pharma,178,83,Aurangabad
+Kirloskar Brothers,3.8,1100,4300,88,21,Industrial Machinery,96,73,Pune
+Parexel International,3.8,1200,5900,87,9,Clinical Research,124,25,Hyderabad
+ANZ Banking Group,3.8,1200,8100,106,2,Banking,102,18,Bangalore
+Isgec Heavy Engineering,3.8,1700,6800,144,52,Engineering & Construction,133,90,Noida
+MG Motor,3.8,1000,4600,77,0,Automobile,72,99,Vadodara
+Bharat Forge,3.8,1400,6400,76,5,Auto Components,118,28,Pune
+Digit Insurance,3.8,1700,5700,231,89,Insurance,101,87,Bangalore
+SK Finance Limited,3.8,1200,3200,85,0,NBFC,13,264,Jaipur
+T-Systems ICT India,3.8,1200,8400,104,9,IT Services & Consulting,90,16,Pune
+Apco Infratech,3.8,1400,4300,135,46,Engineering & Construction,108,93,Lucknow
+Spencer's Retail,3.8,1000,2800,61,2,Retail,94,63,Kolkata
+Tata AutoComp Systems,3.8,1400,6600,114,20,Auto Components,94,43,Pune
+PNC Infratech,3.8,1200,3400,82,4,Engineering & Construction,78,93,Agra
+Tata Communications Transformation Services,3.8,1700,8300,101,0,Telecom,170,95,Pune
+Haldiram Foods International Limited,3.8,1700,5800,154,0,FMCG,99,164,Nagpur
+Devyani International,3.8,1400,3300,71,14,Hospitality,114,134,New Delhi
+Hindustan Zinc,3.8,1000,4300,54,0,Metals & Mining,103,36,Udaipur
+Hikal,3.8,1100,4600,75,63,Pharma,86,22,Bangalore
+Asirvad Microfinance,3.8,1100,2200,43,12,NBFC,60,308,Chennai
+TK Elevator,3.8,1100,4200,64,15,Industrial Machinery,96,79,Pune
+Xiaomi,3.8,1400,5600,112,11,Consumer Electronics & Appliances,128,211,Bangalore
+Orchids International School,3.8,1600,3800,323,21,Education & Training,53,33,Bangalore
+ACG Worldwide,3.8,1200,3900,83,26,Pharma,43,31,Mumbai
+Cinépolis,3.8,1300,2900,78,5,Media & Entertainment,150,59,New Delhi
+Barclays Shared Services,3.8,1200,4800,37,883,Financial Services,178,16,Chennai
+Wipro Enterprises Ltd,3.8,1600,8000,202,97,FMCG,434,121,Bangalore
+The Jaypee Group,3.8,1100,3300,50,4,Engineering & Construction,113,106,Noida
+Xyz Company,3.8,1100,43300,522,0,Financial Services,63,95,Bangalore
+Asahi India Glass,3.8,1500,5100,108,96,Auto Components,129,87,Chennai
+DP World,3.8,1100,4700,91,94,Logistics,62,83,Mumbai
+Diageo,3.8,1200,6200,90,53,Beverage,101,97,Bangalore
+Broadridge Financial Solutions,3.8,1500,10700,161,48,FinTech,140,14,Hyderabad
+PayPal,3.8,1100,9500,236,0,FinTech,120,15,Bangalore
+Fabindia,3.8,1300,4000,60,8,Retail,120,83,New Delhi
+VOIS,3.8,1300,7500,176,11,IT Services & Consulting,13,21,Pune
+Emami,3.8,1600,5100,104,6,FMCG,131,174,Kolkata
+Fidelity National Financial,3.8,1200,6000,59,7,Financial Services,151,15,Bangalore
+Patanjali Foods,3.8,1600,4300,100,2,FMCG,108,229,Haridwar
+IndiaFirst Life Insurance,3.8,1500,3900,81,46,Insurance,102,242,Mumbai
+CenturyPly,3.8,1300,4200,91,42,Furniture & Furnishing,57,140,Kolkata
+HERE Technologies,3.8,1600,7700,112,20,IT Services & Consulting,285,19,Mumbai
+Frankfinn Institute of Air Hostess Training,3.8,1600,3200,122,66,Education & Training,170,61,Gurgaon
+Imperial Auto Industries,3.8,1100,4600,75,7,Auto Components,66,38,Faridabad
+Paytm Payments Bank,3.8,1300,5600,138,1,Banking,116,137,Noida
+Adobe,3.8,1300,12400,265,165,Software Product,150,21,Bangalore
+Krishna Maruti,3.8,1600,5100,127,7,Auto Components,119,50,Gurgaon
+Aon,3.8,1400,6000,84,43,Management Consulting,203,24,Gurgaon
+Baroda Global Shared Services,3.8,1300,2900,120,30,BPO,28,176,Gandhinagar
+Dell EMC,3.8,1200,8900,73,0,IT Services & Consulting,192,53,Bangalore
+Punjab National Bank,3.8,1300,2900,57,0,Banking,95,216,New Delhi
+Marico,3.8,1600,5600,101,23,FMCG,162,182,Mumbai
+Philips,3.8,1900,10800,176,78,Medical Equipment,180,96,Bangalore
+Blinkit,3.8,3300,12400,326,0,Internet,202,145,Gurgaon
+Uflex,3.8,1900,6600,127,68,Packaging,117,47,Noida
+Renault Nissan Technology & Business Centre India,3.8,2100,14500,151,21,Automobile,210,18,Chennai
+Subros,3.8,3800,12500,217,1,Auto Components,379,89,Noida
+Aditya Birla Capital,3.8,3700,14200,255,3,NBFC,211,339,Mumbai
+Glenmark Pharmaceuticals,3.8,3600,12300,178,123,Pharma,317,185,Mumbai
+Omega Healthcare,3.8,6200,26400,541,104,BPO,391,69,Chennai
+Fujitsu,3.8,2900,17300,213,129,IT Services & Consulting,190,41,Pune
+Spark Minda,3.8,2100,7100,156,3,Auto Components,36,75,Pune
+Cholamandalam Investment & Finance,3.8,6400,12700,279,16,Financial Services,293,843,Chennai
+FIS,3.8,6400,38800,532,123,FinTech,721,61,Pune
+Power Mech Projects,3.8,2100,6700,120,7,Engineering & Construction,158,150,Hyderabad
+Dabur,3.8,3600,8800,329,16,FMCG,276,320,New Delhi
+Amazon Development Centre India,3.8,7400,38400,876,8,Internet,20,146,Hyderabad
+Jana Small Finance Bank,3.8,7500,14300,304,36,Banking,623,418,Bangalore
+JPMorgan Chase & Co.,3.8,7600,86000,854,730,Financial Services,845,55,Bangalore
+I Process Services,3.8,2900,5400,132,1,Recruitment,127,405,Mumbai
+Delhivery,3.8,7600,21000,601,187,Logistics,656,754,Gurgaon
+Ninjacart,3.8,2000,5100,103,24,Internet,137,113,Bangalore
+SGS,3.8,2000,6200,125,125,"Testing, Inspection and Certification (TIC)",178,145,Mumbai
+L&T Energy Hydrocarbon,3.8,1900,8300,117,0,Engineering & Construction,201,87,Vadodara
+Quess,3.8,9500,30800,529,24,Recruitment,440,741,Bangalore
+Ipca Laboratories,3.8,3500,11500,202,45,Pharma,245,160,Mumbai
+Star Union Dai-ichi Life Insurance,3.8,2200,5200,132,32,Insurance,95,314,Mumbai
+TCE,3.8,2200,9300,291,24,Engineering & Construction,165,132,Mumbai
+Sobha,3.8,2200,8300,164,50,Real Estate,220,37,Bangalore
+BT Group,3.8,2500,11400,225,6,Telecom,264,23,Gurgaon
+TVS Supply Chain Solutions,3.8,2600,8400,155,11,Logistics,190,152,Chennai
+Dell,3.8,4500,28700,423,17,Consumer Electronics & Appliances,540,117,Bangalore
+Atos,3.8,4900,34200,405,90,IT Services & Consulting,456,49,Pune
+State Bank of India,3.8,4900,11500,308,15,Banking,400,618,Mumbai
+R1 RCM,3.8,4400,21400,356,164,BPO,334,46,New Delhi
+Deutsche Bank,3.8,4300,36100,418,371,Banking,399,42,Pune
+Sterlite Technologies,3.8,2500,10100,181,131,Hardware & Networking,208,101,Aurangabad
+NTT Data,3.8,5000,36000,739,190,IT Services & Consulting,156,80,Bangalore
+Sammaan Capital Limited,3.8,2500,5800,112,1,NBFC,118,201,Gurgaon
+Nestlé,3.8,2700,9500,279,18,FMCG,319,279,Gurgaon
+Delhi Public School,3.8,2300,5200,154,189,Education & Training,258,273,New Delhi
+McDonald's,3.8,2400,5000,154,0,Hospitality,410,149,New Delhi
+Bajaj Auto,3.8,4100,14500,322,0,Automobile,496,319,Pune
+DCB Bank,3.8,4000,9500,226,7,Banking,248,342,Mumbai
+Adani Group,3.8,2300,10800,284,1000,Power,101,192,Ahmedabad
+Kansai Nerolac Paints,3.8,2700,7900,189,66,Chemicals,189,253,Mumbai
+Landmark Group,3.8,2700,9300,175,8,Retail,267,174,Bangalore
+Bureau Veritas,3.8,2300,8100,143,9,Other,176,143,Mumbai
+Shree Cement,3.8,2800,9700,211,7,Building Material,214,254,Beawar
+Cybage,3.8,2300,17300,212,33,IT Services & Consulting,268,15,Pune
+Motherson Automotive Technologies and Engineering,3.8,1900,7300,152,30,Auto Components,151,67,Chennai
+Microsoft Corporation,3.8,2100,29000,611,0,Software Product,196,47,Bangalore
+HDFC Bank,3.8,50600,150000,2900,243,Banking,3200,1823,Mumbai
+Thomson Reuters,3.8,1800,10500,137,67,Software Product,226,26,Bangalore
+Adecco Group,3.8,1900,7100,117,0,Recruitment,137,180,Bangalore
+Teleperformance,3.8,36600,96200,2200,1400,BPO,1800,255,Mumbai
+KENT RO Systems,3.8,1800,4500,98,2,Consumer Electronics & Appliances,106,152,Noida
+Iris Software,3.8,1900,7700,206,376,IT Services & Consulting,245,24,Noida
+Bharti Airtel,3.8,16800,48800,1100,137,Telecom,1600,788,Gurgaon
+Infinx,3.8,1800,5300,208,21,Software Product,72,36,Hyderabad
+Vishal Mega Mart,3.8,3400,6200,205,5,Retail,273,377,New Delhi
+Allcargo Logistics,3.8,3200,6900,137,19,Logistics,335,175,Mumbai
+Mankind Pharma,3.8,3100,9400,253,11,Pharma,246,247,New Delhi
+Croma,3.8,3200,9000,183,25,Retail,186,192,Mumbai
+PI Industries,3.8,1800,6800,136,6,Agro Chemicals,162,105,Vadodara
+UBS,3.8,3400,31300,370,2,Financial Services,117,19,Pune
+Torrent Power,3.8,1800,7700,163,47,Power,157,61,Ahmedabad
+AXA Business Services,3.8,1800,7200,102,17,IT Services & Consulting,171,11,Pune
+Trent,3.8,1900,4600,107,5,Retail,133,143,Mumbai
+HARMAN,3.8,3300,24100,291,108,Consumer Electronics & Appliances,100,42,Bangalore
+Honeywell Technology Solutions,3.7,1500,11400,163,0,Industrial Automation,204,18,Bangalore
+Dhoot Transmission,3.7,1100,3900,66,9,Auto Components,107,42,Aurangabad
+Steel Strips Wheels,3.7,1500,5400,87,2,Auto Components,117,51,Chennai
+Centre for Development of Advanced Computing,3.7,1200,6600,122,0,IT Services & Consulting,59,40,Pune
+Sharekhan,3.7,1300,5000,97,65,Financial Services,115,113,Mumbai
+Access Healthcare,3.7,5700,28400,390,552,BPO,347,64,Chennai
+HFCL Limited,3.7,1100,4200,81,17,Telecom,88,111,Hyderabad
+Biocon Biologics,3.7,1100,6500,107,2,Biotechnology,351,26,Bangalore
+London Stock Exchange Group,3.7,1100,10500,152,39,Financial Services,52,11,Bangalore
+Bajaj General Insurance Limited,3.7,3300,10900,138,68,Insurance,236,303,Pune
+ICICI Home Finance,3.7,1800,5000,98,8,Financial Services,87,217,Mumbai
+Iffco Tokio General Insurance Co.,3.7,1300,4000,49,0,Insurance,113,274,Gurgaon
+CorroHealth infotech,3.7,2300,7300,275,83,Analytics & KPO,9,35,Hyderabad
+Unichem Laboratories,3.7,1300,5100,94,12,Pharma,123,77,Ghaziabad
+KocharTech,3.7,2300,3800,79,39,IT Services & Consulting,582,25,Kolkata
+Alstom Transportation,3.7,3200,14800,276,347,Engineering & Construction,174,80,Bangalore
+EbixCash Limited,3.7,1200,5200,110,5,Software Product,73,85,Noida
+PolicyBazaar,3.7,5600,17200,621,473,Internet,231,149,Gurgaon
+Accenture,3.7,71300,650000,9200,40600,IT Services & Consulting,6700,255,Bangalore
+Bharat FIH,3.7,1300,5400,90,0,Electronics Manufacturing,76,39,Chennai
+Cholamandalam MS General Insurance,3.7,2300,5700,115,0,Insurance,166,386,Chennai
+Jubilant Foods Works,3.7,4100,9300,249,200,Hospitality,180,262,New Delhi
+Thyrocare Technologies,3.7,1100,4400,86,1,Healthcare,92,75,Mumbai
+Adani Power,3.7,2500,9300,303,0,Power,162,127,Mundra
+DBS Bank,3.7,2500,12900,194,204,Banking,192,177,Hyderabad
+SBI Life Insurance Company,3.7,5000,11800,306,8,Insurance,327,656,Mumbai
+Barclays,3.7,3300,31300,312,0,Banking,253,36,Pune
+IQVIA,3.7,5100,30600,541,25,Clinical Research,524,65,Bangalore
+Thermo Fisher Scientific,3.7,1000,6400,104,160,Biotechnology,92,35,Bangalore
+Edelweiss,3.7,1100,5700,62,0,Financial Services,132,113,Mumbai
+Motilal Oswal Financial Services,3.7,4300,13000,541,42,Financial Services,167,168,Mumbai
+Tata Advanced Systems,3.7,2500,12600,184,0,Defence & Aerospace,132,56,Bangalore
+Nilkamal,3.7,1100,3600,79,11,Furniture & Furnishing,94,112,Mumbai
+Capgemini,3.7,51400,480000,5400,1900,IT Services & Consulting,3700,183,Bangalore
+Berger Paints,3.7,4300,9900,424,122,Chemicals,273,354,Kolkata
+Gallagher,3.7,2500,14000,268,155,Insurance,120,29,Bangalore
+Ion Exchange India,3.7,1200,4900,92,27,Waste Management,87,124,Mumbai
+Morningstar,3.7,1400,9700,260,119,Financial Services,120,18,Mumbai
+More Supermarket,3.7,1200,3800,89,57,Retail,56,158,Bangalore
+Macleods Pharmaceuticals,3.7,4100,15600,268,6,Pharma,334,134,Mumbai
+Citicorp,3.7,5400,52200,620,0,Financial Services,517,68,Pune
+Swiggy,3.7,5400,23000,562,255,Internet,343,229,Bangalore
+TÜV NORD,3.7,1000,3900,77,19,"Testing, Inspection and Certification (TIC)",63,82,Pune
+UST,3.7,5500,39500,584,131,IT Services & Consulting,408,51,Bangalore
+Bosch Global Software Technologies,3.7,5500,40100,387,21,IT Services & Consulting,625,47,Bangalore
+Virtusa Consulting Services,3.7,6000,56700,665,1400,IT Services & Consulting,318,55,Hyderabad
+Spandana Sphoorty Financial,3.7,1200,2300,49,3,NBFC,80,347,Hyderabad
+Prism Johnson,3.7,1100,4300,66,0,Building Material,62,142,Mumbai
+PharmEasy,3.7,1600,6500,116,1,Internet,153,70,Bangalore
+Force Motors,3.7,2100,8300,145,1,Automobile,152,107,Pune
+Mercedes-Benz Research and Development India,3.7,2100,17600,206,142,IT Services & Consulting,195,52,Bangalore
+Zensar Technologies,3.7,2900,25700,277,301,IT Services & Consulting,243,28,Pune
+TTEC India,3.7,1600,5300,187,16,BPO,152,34,Ahmedabad
+HGS,3.7,7500,20900,273,17,BPO,968,121,Bangalore
+Spinny,3.7,1900,7200,201,44,Internet,101,62,Gurgaon
+ZF Steering Gear,3.7,1300,7100,58,3,Auto Components,96,34,Pune
+Kohler,3.7,1100,4800,76,33,Building Material,75,51,Pune
+IIFL SAMASTA,3.7,1600,3100,81,0,NBFC,19,397,Bangalore
+Wells Fargo,3.7,8200,55500,677,140,Financial Services,855,27,Bangalore
+Mahindra Logistics,3.7,4500,13000,251,0,Logistics,445,233,Mumbai
+Belrise Industries,3.7,1600,6100,105,12,Auto Components,97,58,Pune
+Apollo Pharmacy,3.7,2200,7100,179,1100,Pharma,128,280,Hyderabad
+Samvardhana Motherson Group,3.7,3600,12100,257,12,Auto Components,403,93,Noida
+AtkinsRealis,3.7,1400,5800,106,249,Engineering & Construction,91,55,Bangalore
+Bandhan Bank,3.7,10700,25200,730,14,Banking,517,997,Kolkata
+State Street Syntel,3.7,2000,7300,79,0,Financial Services,281,21,Mumbai
+YASH Technologies,3.7,2000,16200,169,385,IT Services & Consulting,172,31,Hyderabad
+EPAM Systems,3.7,2000,21500,613,100,IT Services & Consulting,132,35,Hyderabad
+ITC Infotech,3.7,4700,29500,411,73,IT Services & Consulting,281,67,Bangalore
+Sri Chaitanya Educational Institutions,3.7,1100,3000,49,2,Education & Training,66,102,Hyderabad
+Aditya Birla Health Insurance Co,3.7,1900,7100,119,4,Insurance,93,251,Mumbai
+Honeywell Automation,3.7,1900,11900,132,0,Industrial Automation,159,78,Pune
+R.R. Donnelley,3.7,1900,10000,128,25,Marketing & Advertising,243,27,Chennai
+CNH (Case New Holland),3.7,1900,5900,136,24,Industrial Machinery,162,137,Gurgaon
+Hatsun Agro Product,3.7,1300,4600,79,10,Food Processing,104,125,Chennai
+Hyundai Mobis,3.7,1100,5100,79,9,Auto Components,124,47,Chennai
+BNP Paribas,3.7,2100,17800,209,87,Banking,174,27,Mumbai
+Qualcomm,3.7,1200,14100,290,216,Semiconductors,133,18,Hyderabad
+Federal Bank,3.7,1100,5500,119,0,Banking,71,150,Mumbai
+DTDC Express,3.7,3400,8600,194,19,Logistics,263,270,New Delhi
+FDC,3.7,1300,3700,68,0,Pharma,84,126,Mumbai
+GeBBS Healthcare Solutions,3.7,3200,11300,179,74,BPO,291,25,Mumbai
+Bharat Financial Inclusion,3.7,2800,5200,121,1,Financial Services,174,496,Hyderabad
+ExcelR,3.7,1200,1000,107,37,Education & Training,3,24,Bangalore
+Deloitte,3.7,22400,250000,3300,1700,Management Consulting,2400,187,Hyderabad
+JK Lakshmi Cement,3.7,1200,3700,76,1,Building Material,95,140,New Delhi
+Meesho,3.7,2100,9300,421,111,Internet,297,131,Bangalore
+Sify Technologies,3.7,2100,9700,146,26,IT Services & Consulting,152,132,Chennai
+Aarvee Associates,3.7,1200,3300,95,0,Engineering & Construction,102,168,Hyderabad
+Sysnet Global Technologies,3.7,1700,4100,142,566,IT Services & Consulting,83,152,New Delhi
+Edelweiss Life Insurance,3.7,1100,3700,58,41,Insurance,93,123,Mumbai
+Randstad,3.7,4500,16500,326,8,Recruitment,342,353,Hyderabad
+FactSet,3.7,1600,10400,229,42,Analytics & KPO,185,17,Hyderabad
+Muthoot Finance,3.7,6200,13100,344,87,NBFC,325,784,Bangalore
+Eternal Limited,3.7,2900,14500,361,9,Internet,218,219,Gurgaon
+Cafe Coffee Day,3.7,1800,3700,79,8,Hospitality,179,104,Bangalore
+BlackBuck,3.7,2600,6300,213,20,Internet,245,366,Bangalore
+Intertek,3.7,1200,3900,82,59,"Testing, Inspection and Certification (TIC)",113,114,New Delhi
+Decathlon,3.7,1200,4200,118,4,Retail,116,69,Bangalore
+Utkarsh Small Finance Bank,3.6,4500,10900,299,22,Banking,270,408,Varanasi
+Micro Labs,3.6,2600,9700,152,13,Pharma,205,151,Bangalore
+Jindal X,3.6,1200,2800,113,2,BPO,155,22,New Delhi
+Tenneco,3.6,1200,5100,68,10,Auto Components,114,44,Pune
+DIVI'S Laboratories,3.6,1700,6700,99,0,Pharma,175,36,Visakhapatnam
+Amity University,3.6,1300,5200,113,64,Education & Training,120,86,Noida
+MedPlus,3.6,1300,4200,106,32,Retail,58,136,Hyderabad
+Bajaj Housing Finance,3.6,1300,5800,71,66,NBFC,59,168,Pune
+IKS Health,3.6,2800,11300,261,26,Healthcare,225,31,Mumbai
+Societe Generale Global Solution Centre,3.6,3000,22800,294,122,IT Services & Consulting,293,24,Bangalore
+Novo Nordisk,3.6,1300,6300,96,186,Pharma,129,74,Bangalore
+Indus Towers,3.6,2800,9100,223,24,Telecom,202,240,Gurgaon
+VVDN Technologies,3.6,2900,13600,255,18,IT Services & Consulting,127,49,Gurgaon
+GEP Worldwide,3.6,1300,9000,151,8,IT Services & Consulting,126,17,Mumbai
+ManpowerGroup,3.6,1300,5000,68,342,Recruitment,80,147,Bangalore
+ESAF Small Finance Bank,3.6,2900,7600,165,36,Banking,104,441,Thrissur
+Varroc Group,3.6,3100,9500,219,62,Auto Components,230,62,Pune
+Square Yards,3.6,3000,9200,226,59,Internet,232,51,Gurgaon
+MSN Laboratories,3.6,3000,9400,171,35,Pharma,155,105,Hyderabad
+MRF Tyres,3.6,3500,12600,370,18,Auto Components,345,193,Chennai
+ElasticRun,3.6,2600,6100,273,4,Logistics,224,385,Pune
+Godrej Properties,3.6,1700,8500,123,3,Real Estate,106,34,Mumbai
+Bajaj Capital,3.6,1500,3800,166,92,Financial Services,101,173,New Delhi
+Deccan Fine Chemicals,3.6,1100,4900,103,7,Agro Chemicals,60,31,Tuni
+Axis Bank,3.6,32299,110000,1900,176,Banking,2100,1502,Mumbai
+Team Computers,3.6,2200,8400,198,159,IT Services & Consulting,115,103,New Delhi
+Tesco,3.6,1500,8700,149,5,Retail,189,17,Bangalore
+Bharti AXA Life Insurance,3.6,2200,5200,146,45,Insurance,170,243,Mumbai
+SBI General Insurance,3.6,2200,6500,127,25,Insurance,132,286,Mumbai
+IFB,3.6,1500,5300,120,0,Consumer Electronics & Appliances,57,177,Bangalore
+Amdocs,3.6,4700,37200,559,11,Software Product,614,23,Pune
+Allstate,3.6,2100,12200,155,14,Insurance,186,15,Pune
+Piaggio,3.6,1100,3800,71,5,Automobile,123,82,Pune
+Mercer,3.6,1500,9800,96,72,Management Consulting,205,17,New Delhi
+Concentrix Corporation,3.6,31500,130000,1900,71,BPO,3100,176,Bangalore
+LTIMindtree,3.6,25800,190000,3400,490,IT Services & Consulting,777,146,Bangalore
+CAMS,3.6,2100,8600,146,22,Financial Services,50,107,Chennai
+Poonawalla Fincorp,3.6,2100,5700,78,19,NBFC,129,263,Pune
+DXC Technology,3.6,11800,73200,886,205,IT Services & Consulting,1100,132,Bangalore
+FirstCry,3.6,2100,8600,209,11,Retail,70,211,Pune
+Tata 1mg,3.6,1600,6800,218,60,Internet,100,63,Gurgaon
+Reliance General Insurance,3.6,2000,7100,98,6,Insurance,131,193,Mumbai
+First American (India),3.6,1800,9400,99,63,Insurance,172,22,Bangalore
+JK Tyre,3.6,2000,6800,137,1,Auto Components,189,141,Chennai
+Morgan Stanley,3.6,2000,25800,332,5,Financial Services,151,19,Mumbai
+EXL Service,3.6,8400,44100,892,1500,Analytics & KPO,799,62,Noida
+K12 Techno Services,3.6,1900,5200,412,214,EdTech,61,42,Bangalore
+Yes Bank,3.6,9900,42900,544,137,Banking,608,538,Mumbai
+TVS Sundram Fasteners,3.6,1800,6700,91,0,Auto Components,203,66,Chennai
+Kotak Mahindra Bank,3.6,21900,86600,1400,106,Banking,1300,683,Mumbai
+Adani Ports and SEZ,3.6,1100,3900,75,0,Ports & Shipping,123,61,Mundra
+Tata Tele Business Services,3.6,1900,4400,53,63,Telecom,274,135,Mumbai
+SBI Securities,3.6,2200,6800,181,26,Financial Services,105,315,Mumbai
+Patra India,3.6,1500,5900,118,6,BPO,83,27,Visakhapatnam
+Genpact,3.6,40900,229999,3800,1400,IT Services & Consulting,3500,181,Hyderabad
+Cyient,3.6,5300,27500,331,79,IT Services & Consulting,466,48,Hyderabad
+Altimetrik,3.6,1400,11400,257,45,IT Services & Consulting,107,14,Bangalore
+Sonalika Tractors,3.6,2600,8800,168,0,Automobile,173,194,Hoshiarpur
+Eviden,3.6,4800,27800,316,8,IT Services & Consulting,1,39,Pune
+Care Health Insurance,3.6,2600,8500,158,44,Insurance,166,244,Gurgaon
+Exl India,3.6,2600,15200,129,1,Logistics,163,43,New Delhi
+Persistent Systems,3.6,4900,44800,703,248,IT Services & Consulting,369,41,Pune
+The Muthoot Group,3.6,1400,3800,84,0,Financial Services,227,307,New Delhi
+CIE Automotive India Limited (Formerly known as Mahindra CIE Automotive Limited),3.6,1400,4800,88,3,Auto Components,1,47,Pune
+Wipro,3.6,63500,480000,6700,6900,IT Services & Consulting,4600,370,Hyderabad
+BNY,3.6,5100,30800,395,2,Financial Services,528,25,Pune
+Northern Trust Operating Services,3.6,2400,17000,240,33,Financial Services,225,27,Bangalore
+SBI Cards & Payment Services,3.6,5200,15800,300,98,Financial Services,344,436,Gurgaon
+Narayana Educational Society,3.6,1400,4100,66,18,Education & Training,118,145,Hyderabad
+Canara HSBC Life Insurance,3.6,2400,6200,132,5,Insurance,168,312,Gurgaon
+Eureka Forbes,3.6,2300,5600,91,3,Consumer Electronics & Appliances,227,184,Mumbai
+Emcure Pharmaceuticals,3.6,2400,8400,125,30,Pharma,233,115,Pune
+Intellect Design Arena,3.6,2400,13500,181,19,Software Product,118,40,Chennai
+MDIndia Health Insurance TPA,3.6,1100,3700,69,49,Insurance,84,94,Pune
+Axis Direct,3.6,2400,4700,87,46,Financial Services,226,270,Mumbai
+Standard Chartered,3.6,5600,41900,321,0,Banking,305,68,Chennai
+TELUS Digital,3.6,1800,9600,134,31,IT Services & Consulting,35,25,Noida
+Capri Global Capital,3.6,1800,4100,73,54,NBFC,37,326,New Delhi
+Verizon,3.6,1800,11400,130,0,Telecom,200,11,Hyderabad
+RMSI,3.6,2300,8500,192,16,IT Services & Consulting,184,25,Hyderabad
+GVK Emergency Management and Research Institute,3.6,2300,4500,116,37,Non-Profit,176,212,Lucknow
+Cognizant,3.6,59800,600000,6300,697,IT Services & Consulting,5500,229,Hyderabad
+Angel One,3.6,1900,7500,163,18,FinTech,153,132,Mumbai
+Pernod Ricard,3.5,1000,4400,59,9,Beverage,109,119,Gurgaon
+Infosys,3.5,47300,520000,8300,2600,IT Services & Consulting,4800,246,Bangalore
+EY Global Delivery Services ( EY GDS),3.5,4500,48900,878,10,IT Services & Consulting,146,56,Bangalore
+Johnson Controls,3.5,3500,17500,301,5,Industrial Automation,266,57,Pune
+Indiamart Intermesh,3.5,5800,20400,743,552,Internet,432,173,Noida
+JustDial,3.5,5100,15500,391,53,Internet,372,229,Noida
+Meril,3.5,1100,4700,83,45,Medical Equipment,72,80,Vapi
+Firstsource Solutions,3.5,5600,24200,358,138,BPO,570,74,Bangalore
+ICICI Lombard General Insurance Company,3.5,5600,20200,353,183,Insurance,366,313,Mumbai
+State Street Corporation,3.5,4000,31400,284,8,Financial Services,261,35,Bangalore
+Prodapt,3.5,1200,9500,115,119,IT Services & Consulting,73,16,Chennai
+RBL Bank,3.5,3900,18300,236,53,Banking,221,284,Mumbai
+Infosys BPM,3.5,11700,73200,1100,79,BPO,1100,95,Bangalore
+HCL Group,3.5,6100,39900,514,0,IT Services & Consulting,661,97,Chennai
+Birlasoft,3.5,3600,29800,315,506,IT Services & Consulting,235,50,Pune
+Oracle,3.5,6200,62800,944,1000,Software Product,617,56,Bangalore
+Kotak Mahindara Life Insurance,3.5,3600,12600,259,169,Insurance,256,256,Mumbai
+Air India Sats Airport Services,3.5,1100,2400,64,2,Aviation,67,48,New Delhi
+Conneqt Business Solutions,3.5,10100,26200,547,350,BPO,772,266,Hyderabad
+GlobalLogic,3.5,5600,40300,677,47,IT Services & Consulting,515,60,Hyderabad
+Chetu,3.5,1300,7400,223,4,Software Product,102,14,Noida
+Tata Consumer Products,3.5,1400,5700,98,2,FMCG,77,220,Bangalore
+Sunknowledge Services,3.5,1300,3600,106,9,BPO,202,13,Kolkata
+Kotak Securities,3.5,2000,9500,143,33,Financial Services,153,138,Mumbai
+Generali Central Life Insurance,3.5,2100,6700,118,37,Insurance,163,199,Mumbai
+Shriram Life Insurance,3.5,1500,4700,109,35,Insurance,81,321,Hyderabad
+DEXIT Global,3.5,1300,6000,138,1,IT Services & Consulting,113,151,Mumbai
+NielsenIQ,3.5,1500,9400,223,31,Analytics & KPO,57,54,Chennai
+Bank of Baroda,3.5,2100,6800,115,0,Banking,150,299,Mumbai
+ValueLabs,3.5,2100,16000,212,62,IT Services & Consulting,266,20,Hyderabad
+Zepto,3.5,2700,9100,442,31,Internet,28,101,Bangalore
+Capita,3.5,2700,12900,165,42,BPO,330,31,Pune
+Karur Vysya Bank,3.5,1500,4600,106,8,Banking,59,188,Chennai
+Kantar,3.5,1300,6600,114,11,Analytics & KPO,77,44,Bangalore
+Canara Bank,3.5,1500,4000,48,4,Banking,96,215,Bangalore
+InterGlobe Aviation,3.5,3200,13600,367,85,Aviation,315,104,New Delhi
+Infogain,3.5,1400,11000,136,140,IT Services & Consulting,119,23,Bangalore
+Star Health & Allied Insurance,3.5,2600,10000,155,21,Insurance,164,328,Chennai
+Vfs Global Services,3.5,1400,4300,71,15,IT Services & Consulting,120,32,Mumbai
+Unisys,3.5,1400,10000,81,34,IT Services & Consulting,147,18,Bangalore
+Mahindra Holidays & Resorts,3.5,2400,5700,127,64,Hospitality,202,113,Mumbai
+NIIT,3.5,1400,5900,107,40,Education & Training,160,101,Gurgaon
+Henry Harvin Education,3.5,2000,902,56,55,EdTech,63,33,Noida
+Physicswallah,3.5,2500,8100,264,89,EdTech,20,122,Noida
+CMS Infosystems,3.5,1900,4700,77,7,Software Product,104,216,Mumbai
+Shadowfax Technologies,3.5,1900,7500,163,45,Logistics,81,239,Bangalore
+Bata,3.5,1700,4100,83,8,Fashion & Textile,118,147,Gurgaon
+L.G.Balakrishnan & Bros,3.5,1600,5700,81,0,Auto Components,119,61,Coimbatore
+Quest Global,3.5,3000,21000,359,145,IT Services & Consulting,190,49,Bangalore
+Medi Assist India,3.5,1800,7300,135,79,Insurance,139,66,Bangalore
+Crisil,3.5,1900,13200,213,621,Analytics & KPO,222,80,Mumbai
+Microland,3.5,1900,10600,143,574,IT Services & Consulting,158,46,Bangalore
+Tata Elxsi,3.5,2900,22700,338,41,IT Services & Consulting,202,30,Bangalore
+NCR Corporation,3.5,1900,9200,143,32,IT Services & Consulting,173,89,Hyderabad
+IDBI Bank,3.4,1900,6100,81,0,Banking,137,330,Mumbai
+HCLTech,3.4,44400,380000,4500,214,IT Services & Consulting,3800,228,Chennai
+SHYAM METALICS AND ENERGY,3.4,1500,4600,152,7,Metals & Mining,43,75,Sambalpur
+Nielsen,3.4,1100,6300,152,1,Analytics & KPO,128,74,Bangalore
+3i Infotech,3.4,2300,10600,164,95,IT Services & Consulting,149,128,Mumbai
+Tech Mahindra,3.4,42400,280000,4500,454,IT Services & Consulting,3400,332,Hyderabad
+Capgemini Engineering,3.4,2300,14600,396,0,IT Services & Consulting,139,27,Bangalore
+Air India,3.4,1700,7600,199,30,Aviation,152,64,New Delhi
+Wheelseye Technology,3.4,1400,3700,114,18,Internet,99,222,Gurgaon
+Knorr-Bremse,3.4,1000,4900,66,1,Auto Components,110,30,Pune
+Indoco Remedies,3.4,1400,5600,87,4,Pharma,107,84,Mumbai
+Datamatics Global Services,3.4,2400,11600,180,35,IT Services & Consulting,183,37,Mumbai
+HDFC Securities,3.4,1700,6000,124,40,Financial Services,137,185,Mumbai
+GlobalData,3.4,1000,5700,92,12,Analytics & KPO,101,22,Hyderabad
+Sonata Software,3.4,1400,11100,134,182,IT Services & Consulting,80,16,Bangalore
+Statestreet HCL Services,3.4,2400,14100,219,0,BPO,201,18,Chennai
+NeoSOFT,3.4,1800,10600,297,72,IT Services & Consulting,101,24,Mumbai
+XL Dynamics,3.4,1500,3600,96,4,IT Services & Consulting,193,32,Mumbai
+HTC Global Services,3.4,1800,13000,161,54,IT Services & Consulting,108,32,Chennai
+Sri Chaitanya Techno Schools,3.4,1100,3300,71,0,Education & Training,1,162,Bangalore
+Clover Infotech,3.4,1600,11600,137,97,IT Services & Consulting,95,22,Mumbai
+Paisabazaar.com,3.4,1900,6900,167,38,Internet,98,35,Gurgaon
+V2 Retail,3.4,1100,2500,81,47,Retail,83,125,New Delhi
+Extramarks Education,3.4,2000,7400,172,15,EdTech,142,111,Noida
+Jio Platforms,3.4,2000,13700,254,0,IT Services & Consulting,62,103,Mumbai
+Hexaware Technologies,3.4,7400,53300,815,647,IT Services & Consulting,547,69,Chennai
+KPMG India,3.4,7000,64900,914,65,Management Consulting,749,112,Bangalore
+Foundever,3.4,2500,8700,179,72,BPO,199,22,Hyderabad
+upGrad,3.4,2100,9300,217,69,EdTech,125,49,Bangalore
+NxtWave,3.4,1100,2900,247,314,EdTech,13,52,Hyderabad
+Simplex Infrastructures,3.4,2100,4600,83,0,Engineering & Construction,286,138,Kolkata
+IndusInd Bank,3.4,13800,52000,753,116,Banking,793,788,Mumbai
+Ernst & Young,3.4,14000,140000,1300,3700,Management Consulting,1200,133,Bangalore
+Oracle Cerner,3.4,1500,10200,169,0,Software Product,254,7,Bangalore
+Sutherland Global Services,3.4,8700,34500,775,189,BPO,901,81,Chennai
+Aptiv,3.4,1100,7900,123,17,Auto Components,47,26,Bangalore
+Reliance Nippon Life Insurance,3.4,3300,8400,167,2,Insurance,229,482,Mumbai
+Aforeserve,3.4,1300,3600,89,18,IT Services & Consulting,88,158,Mumbai
+KPMG Global Services,3.4,2600,23900,254,12,Management Consulting,6,37,Bangalore
+Globant,3.4,1200,9800,201,64,IT Services & Consulting,100,16,Pune
+Spicejet,3.4,1300,5100,103,1,Aviation,153,60,New Delhi
+Nykaa,3.4,1300,6500,142,1,Internet,57,115,Mumbai
+Brillio,3.4,1300,10300,141,15,IT Services & Consulting,76,14,Bangalore
+Exide Industries,3.4,2700,8600,212,46,Auto Components,242,199,Kolkata
+Synechron,3.4,3600,28000,403,83,IT Services & Consulting,238,32,Pune
+CARS24,3.4,4500,15400,404,109,Internet,410,172,Gurgaon
+Collabera Talent Solutions,3.4,1300,6900,149,14,Recruitment,109,43,Bangalore
+Walmart,3.4,3100,22100,437,201,Retail,320,92,Bangalore
+24/7 Customer,3.4,3400,11500,183,65,Software Product,406,36,Bangalore
+Oracle Financial Services Software,3.4,1400,11100,191,0,Software Product,183,21,Bangalore
+KFintech,3.4,2600,11100,169,9,Financial Services,47,113,Hyderabad
+Tata Technologies,3.4,3200,22600,306,119,Engineering & Construction,308,55,Pune
+Grant Thornton,3.4,1300,10900,114,204,Accounting & Auditing,82,59,Bangalore
+PNB MetLife,3.4,3700,8100,192,5,Insurance,217,426,New Delhi
+Conduent,3.4,3200,16800,231,462,BPO,366,35,Bangalore
+Happiest Minds Technologies,3.4,1400,12200,151,336,IT Services & Consulting,93,17,Bangalore
+OpenText Technologies,3.4,1200,11700,194,27,Software Product,87,14,Bangalore
+Publicis Sapient,3.4,3800,30800,690,265,IT Services & Consulting,391,46,Bangalore
+DISH TV,3.4,1100,3400,75,29,Broadcasting,102,153,Noida
+R Systems International,3.4,1200,7400,140,24,IT Services & Consulting,102,22,Noida
+VIBGYOR Group of Schools,3.4,1300,4100,96,175,Education & Training,102,37,Bangalore
+iSON Xperiences,3.3,1200,3300,78,9,BPO,90,43,Chennai
+Infinite Computer Solutions,3.3,2000,14900,173,207,IT Services & Consulting,105,36,Bangalore
+AB InBev India,3.3,1400,7700,113,73,Beverage,144,77,Bangalore
+Ola Electric Mobility,3.3,2900,9200,295,0,Automobile,76,422,Bangalore
+Mphasis,3.3,10000,73300,915,51,IT Services & Consulting,846,63,Bangalore
+Apexon,3.3,1400,9300,174,73,IT Services & Consulting,41,21,Bangalore
+PwC,3.3,12000,120000,1500,828,Management Consulting,800,132,Bangalore
+WNS,3.3,14800,68600,1200,100,IT Services & Consulting,1300,65,Pune
+1point1 Solutions,3.3,1000,3100,83,87,BPO,85,18,Bangalore
+Trident Group,3.3,1800,5300,136,8,Fashion & Textile,122,58,Barnala
+Goldman Sachs,3.3,1500,19500,409,216,Financial Services,100,22,Bangalore
+Pine Labs,3.3,1700,7300,135,81,FinTech,116,118,Noida
+LivSpace,3.3,1700,7900,166,102,Architecture & Interior Design,92,53,Bangalore
+Vedantu,3.3,1700,8700,197,25,EdTech,159,70,Bangalore
+Fusion CX,3.3,1800,4400,141,83,BPO,98,57,Kolkata
+SS&C TECHNOLOGIES,3.3,1800,13300,196,79,IT Services & Consulting,197,30,Mumbai
+Ola Cabs,3.3,2100,9000,153,12,Internet,227,112,Bangalore
+TCS,3.3,110000,980000,11800,2100,IT Services & Consulting,10600,439,Bangalore
+Lenskart,3.3,4200,13100,441,116,Internet,199,239,New Delhi
+Indegene,3.3,1400,9300,169,67,Analytics & KPO,121,32,Bangalore
+Urban Company,3.3,1500,6500,162,65,Internet,96,59,Gurgaon
+Straive,3.3,2300,10100,221,96,IT Services & Consulting,122,31,Chennai
+QualityKiosk Technologies,3.3,1400,11000,165,238,IT Services & Consulting,98,20,Mumbai
+Cadila Pharmaceuticals,3.3,2300,7800,155,65,Pharma,167,133,Ahmedabad
+VLCC,3.3,1400,3300,53,27,Beauty & Personal Care,95,111,New Delhi
+Innova Solutions,3.3,1100,7800,98,47,IT Services & Consulting,18,37,Hyderabad
+Whitehat jr,3.3,2700,9400,265,0,EdTech,944,48,Mumbai
+Slk Software Services,3.2,1400,9300,113,318,IT Services & Consulting,90,15,Bangalore
+Aakash Educational Services,3.2,4100,13800,365,64,Education & Training,212,244,New Delhi
+Exela Technologies,3.2,1700,7700,100,98,BPO,75,26,Chennai
+IGT Solutions,3.2,3400,13600,252,88,BPO,213,47,New Delhi
+CSB Bank,3.2,1800,6700,107,3,Banking,44,231,Mumbai
+BYJU'S,3.2,16400,53600,2100,0,EdTech,1700,321,Bangalore
+Cogent E Services,3.2,3600,10300,292,1,BPO,220,55,Noida
+Acuity Knowledge Partners,3.2,1400,11500,171,84,Analytics & KPO,78,16,Bangalore
+Coforge,3.2,6500,48700,693,123,IT Services & Consulting,273,103,Noida
+Rashmi Metaliks,3.2,1300,4600,113,6,Iron & Steel,63,43,Kharagpur
+Paytm,3.2,9200,34000,882,382,FinTech,582,418,Noida
+iMerit,3.2,1300,5400,114,9,IT Services & Consulting,97,22,Kolkata
+TEKsystems,3.2,1300,10500,135,33,IT Services & Consulting,78,18,Bangalore
+CitiusTech,3.2,2000,14100,312,48,IT Services & Consulting,163,16,Mumbai
+iOPEX Technologies,3.2,1500,5800,87,39,IT Services & Consulting,530,16,Chennai
+L&T Technology Services,3.1,6400,42800,626,0,IT Services & Consulting,444,93,Bangalore
+IDC Technologies,3.1,1400,6900,76,7,IT Services & Consulting,48,66,Noida
+Movate,3.1,2500,14900,290,98,IT Services & Consulting,2,38,Chennai
+Samsung Research,3.1,1200,9400,149,0,IT Services & Consulting,140,19,Bangalore
+Aptara,3.1,1300,6300,76,7,Content Development,113,14,Noida
+ZS,3.1,2600,20000,514,127,Management Consulting,261,16,Pune
+Evalueserve,3.1,1500,10100,140,74,Analytics & KPO,136,15,Gurgaon
+eClerx,3.1,6100,31900,628,197,IT Services & Consulting,555,32,Pune
+TaskUs,3.1,2200,9100,220,243,BPO,118,35,Indore
+Oyo Rooms,3.1,3900,14300,254,119,Internet,389,122,Gurgaon
+Citco,3.1,1300,8900,166,34,Management Consulting,49,13,Pune
+Startek,3.1,9300,24500,620,118,BPO,681,105,Bangalore
+CMS IT Services,3.1,2900,9400,155,50,IT Services & Consulting,193,152,Mumbai
+KPIT Technologies,3.0,3600,23100,342,37,Software Product,289,44,Pune
+Stanza Living,3.0,1100,3500,89,14,Internet,58,36,Bangalore
+Globiva,3.0,1900,5200,136,111,BPO,83,27,Gurgaon
+Incedo,3.0,1300,9900,200,13,IT Services & Consulting,111,12,Gurgaon
+NoBroker,3.0,2500,10700,280,306,Internet,352,47,Bangalore
+City Union Bank,3.0,1300,5600,118,8,Banking,60,187,Chennai
+Unacademy,2.9,2200,10200,237,38,EdTech,153,72,Bangalore
+Fiserv,2.9,2800,17600,193,5,FinTech,311,32,Pune
+EOSGlobe,2.9,1300,3800,91,12,BPO,85,29,Mumbai
+FOCUS EDUMATICS,2.9,1200,3100,126,0,EdTech,39,35,Coimbatore
+Onward Technologies Inc,2.9,1100,6000,88,28,IT Services & Consulting,42,63,Pune
+SYSKA LED Lights,2.9,1000,2500,58,0,Consumer Electronics & Appliances,80,156,Pune
+AGS Transact Technologies,2.8,1300,3900,43,0,FinTech,128,122,Mumbai
+Apex Group,2.7,1200,7600,177,267,Financial Services,30,28,Pune
+IntouchCX,2.7,2500,9800,239,206,BPO,146,22,Hyderabad
+HighRadius,2.6,1600,8700,208,29,Software Product,82,15,Hyderabad
+Mu Sigma,2.5,1200,6700,248,0,Analytics & KPO,120,16,Bangalore
+Stellar Migration,1.3,1800,0,2,0,Other,8,7,Dubai
